@@ -1,0 +1,16 @@
+{
+  "name": "usb-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Embury <patrik@embury.se> (http://www.embury.se/)",
+  "license": "MIT",
+  "dependencies": {
+    "serialport": "^6.0.4",
+    "usb": "^1.4.0"
+  }
+}

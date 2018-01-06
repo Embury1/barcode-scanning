@@ -1,0 +1,32 @@
+[
+    {
+        "prefix": "7310867",
+        "name": "Skånemejerier AB",
+        "articles": [
+            {
+                "serial": "141",
+                "name": "Äppeljuice"
+            }
+        ]
+    },
+    {
+        "prefix": "7310865",
+        "name": "Arla Foods AB",
+        "articles": [
+            {
+                "serial": "019",
+                "name": "Standardmjölk"
+            }
+        ]
+    },
+    {
+        "prefix": "7310401",
+        "name": "Spendrups Bryggeriaktiebolag",
+        "articles": [
+            {
+                "serial": "712",
+                "name": "Loka Naturell 33cl"
+            }
+        ]
+    }
+]
